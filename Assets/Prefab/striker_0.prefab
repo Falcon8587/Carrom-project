@@ -141,6 +141,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a8c67bb18afa00148a5d598a014da423, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::StrikerMovement
+  minX: -2.59
+  maxX: 2.57
+  launchY: -3.07
   maxForce: 10
   maxDragDistance: 2
 --- !u!50 &7511684482360501637
