@@ -9,6 +9,7 @@ TagManager:
   - CoinYellow
   - CoinBlack
   - CoinRed
+  - Striker
   layers:
   - Default
   - TransparentFX
