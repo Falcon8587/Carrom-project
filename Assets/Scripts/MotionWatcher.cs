@@ -21,7 +21,7 @@ public class MotionWatcher : MonoBehaviour
             moving = false;
             foreach (var rb in allBodies)
             {
-                if (rb != null && rb.velocity.magnitude > 0.05f)
+                if (rb != null && rb.linearVelocity.magnitude > 0.05f)
                 {
                     moving = true;
                     break;
