@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 1388508645828859118}
   - component: {fileID: -598424209977501243}
   m_Layer: 0
-  m_Name: rani goti_0
+  m_Name: CoinRed
   m_TagString: CoinRed
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -102,7 +102,7 @@ CircleCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 338ed79e5c6b9ae458157510fb552c80, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -144,7 +144,7 @@ Rigidbody2D:
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 0
-  m_Material: {fileID: 6200000, guid: 338ed79e5c6b9ae458157510fb552c80, type: 2}
+  m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
