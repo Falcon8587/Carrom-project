@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Coin
+  - Coin Yellow
+  - CoinYellow
+  - CoinBlack
+  - CoinRed
   layers:
   - Default
   - TransparentFX
